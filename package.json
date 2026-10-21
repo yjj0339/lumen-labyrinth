@@ -1,0 +1,1 @@
+{"name":"lumen-labyrinth","version":"1.0.0","type":"module","private":true,"description":"昼光迷庭 — a light-filled 3D garden maze adventure","scripts":{"test":"node --test tests/maze.test.mjs"}}
